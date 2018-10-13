@@ -25,13 +25,13 @@
 #
 # Mucho éxito!
 
-import math
+import statistics
 
 
 def mediana(lista):
     #### ESCRIBIR CODIGO AQUI ####
 
-    return "Suerte!"
+    return statistics.median(lista)
 
     ###############################
 

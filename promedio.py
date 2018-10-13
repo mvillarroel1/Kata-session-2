@@ -17,7 +17,7 @@
 def promedio(lista):
     #### ESCRIBIR CÓDIGO AQUÍ ####
 
-    return "Suerte!"
+    return sum(lista)/len(lista)
 
     ###############################
 
